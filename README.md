@@ -16,7 +16,7 @@ Flutter を使うと、これらすべてのプラットフォームに対応す
 **使用例**
 
 - My BMW  
-  <img src=' ./imgs/bmw.png' >  
+  <img src='./imgs/bmw.png' >  
   出典：https://apps.apple.com/jp/app/my-bmw/id1519034860
 
 - じゃらん  
